@@ -1,13 +1,13 @@
 body{
   padding: 25px;
-  background-image: url(https://fernandocresta.github.io/sitio-de-celula/images/fondo_pantallas.jpg);
+  background-image: url(https://cfp6colquehuancamatias-sys.github.io/sitio-de-celula.-/images/fondo_pantallas.jpg);
 }
 .title {
 	color: #5C6AC4;
 }
 .celula,.celula2{
     text-align: center;
-}   
+}    
 .celula{
     text-align: center;
     background-color: pink;
@@ -27,11 +27,11 @@ footer p {
     justify-content: center;
 }
 .contene_diapo img {
-    display: block;      /* una debajo de la otra */
-    width: 100%;         /* ocupa todo el ancho disponible */
-    max-width: 800px;    /* tamaño máximo */
-    height: auto;        /* conserva proporciones */
-    margin: 10px auto;   /* centradas */
+    display: block;       /* una debajo de la otra */
+    width: 100%;          /* ocupa todo el ancho disponible */
+    max-width: 800px;     /* tamaño máximo */
+    height: auto;         /* conserva proporciones */
+    margin: 10px auto;    /* centradas */
 }
 .parrafo1{
     font-size: 18px;
